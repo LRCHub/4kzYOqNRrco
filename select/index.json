@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "いきのこり●ぼくら",
+  "base_artist": "青葉市子",
+  "createdAt": "2025-12-24T15:25:37.503668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/01_いきのこり●ぼくら_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら (ikinokori●Bokura)",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/02_いきのこり●ぼくら_(ikinokori●Bokura)_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら (20131125)",
+      "artist": "Ichiko Aoba",
+      "has_synced": false,
+      "path": "select/03_いきのこり●ぼくら_(20131125)_Ichiko_Aoba.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら (20131125)",
+      "artist": "青葉市子",
+      "has_synced": true,
+      "path": "select/04_いきのこり●ぼくら_(20131125)_青葉市子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら",
+      "artist": "Aoba, Ichiko",
+      "has_synced": true,
+      "path": "select/05_いきのこり●ぼくら_Aoba,_Ichiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/06_いきのこり●ぼくら_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら - Ikinokori Bokura",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/07_いきのこり●ぼくら_-_Ikinokori_Bokura_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら",
+      "artist": "青葉市子 [Ichiko Aoba]",
+      "has_synced": true,
+      "path": "select/08_いきのこり●ぼくら_青葉市子_[Ichiko_Aoba].lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いきのこり●ぼくら",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/09_いきのこり●ぼくら_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いきのこり●ぼくら",
+      "artist": "青葉市子",
+      "has_synced": false,
+      "path": "select/pl_01_いきのこり●ぼくら_青葉市子.txt"
+    }
+  ]
+}
